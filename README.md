@@ -4,10 +4,10 @@
 ### **Full-Time Data Science Faculty @ Lindenwood University | Statistician & Operations Research Analyst**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sagarkalauni.github.io-C5B358?style=for-the-badge&logo=googlechrome&logoColor=black)](https://sagarkalauni.github.io)
+[![Faculty Directory](https://img.shields.io/badge/Lindenwood_Faculty_Profile-Sagar_Kalauni-000000?style=for-the-badge&logo=academia&logoColor=C5B358)](https://www.lindenwood.edu/about/directories/faculty-staff-directory/details/skalauni/)
 [![ML Course Portal](https://img.shields.io/badge/ML_Masterclass_Portal-ml--courses.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=black)](https://ml-courses.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar_Kalauni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarkalauni7/)
 [![Email](https://img.shields.io/badge/Email-analyst.sagar07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:analyst.sagar07@gmail.com)
-[![Location](https://img.shields.io/badge/Location-St._Charles,_MO_%7C_Glen_Carbon,_IL-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 ---
 
@@ -25,6 +25,7 @@
 *An interactive, full-curriculum learning platform engineered for Data Science students—featuring **50+ video lectures & guided tutorials**, **34 chapters of cognitive theory & coding practice exams**, and **interactive production ML sandboxes**.*
 
 [![Launch ML Course Portal](https://img.shields.io/badge/Launch_ML_Course_Portal-ml--courses.netlify.app-C5B358?style=for-the-badge&logo=rocket&logoColor=black)](https://ml-courses.netlify.app/)
+[![Official Faculty Profile](https://img.shields.io/badge/Lindenwood_Faculty_Directory-View_Profile-1E293B?style=for-the-badge&logo=academia&logoColor=C5B358)](https://www.lindenwood.edu/about/directories/faculty-staff-directory/details/skalauni/)
 
 </div>
 
@@ -32,10 +33,10 @@
 
 ## 🏛️ Academic & Professional Overview
 
-- 🦁 **Full-Time Data Science Faculty** at **Lindenwood University** (*College of Science, Technology, and Health*), pioneering interactive curricula across Machine Learning, Time Series Analysis, Statistical Modeling, SQL, and Power BI Data Storytelling.
+- 🦁 **Full-Time Data Science Faculty** at **Lindenwood University** (*College of Science, Technology, and Health* — [Official Faculty Directory](https://www.lindenwood.edu/about/directories/faculty-staff-directory/details/skalauni/)), pioneering interactive curricula across Machine Learning, Time Series Analysis, Statistical Modeling, SQL, and Power BI Data Storytelling.
 - 🎯 **M.S. in Statistics & Operations Research** (**GPA: 4.0/4.0**) & **Post-Baccalaureate Certificate in Data Science** from **Southern Illinois University Edwardsville (SIUE)**.
 - 🏆 **Award-Winning Educator & Researcher:** *Best Incoming Faculty Nominee (Lindenwood University, 2025)*, *Greg & Mary Ann Budzban Scholarship for Data Analysis (2024)*, *Matthew Samsel Graduate Assistant Fellowship in Mathematics & Statistics (2024)*, and *SNSC Student of the Year in Mathematics (2019)*.
-- 📊 **Industry Analytics Experience:** Operations & Business Data Analyst experience at **AllianceTel**, **Royal Cellular Inc.**, and **Prairie State Generating Company** (optimizing $46.9M+ warehouse inventory across 24,000+ items and building enterprise Power BI / Tableau / Python telemetry dashboards).
+- 📊 **Industry Analytics Experience:** Business Data Analyst experience at **Prairie State Generating Company** (optimizing $46.9M+ warehouse inventory across 24,000+ items, doubling work-order budget efficiency, and building enterprise Power BI / Tableau / Python telemetry dashboards).
 
 ---
 
@@ -50,7 +51,7 @@
 | **L1 & L2 Regularization** | Lasso ($L_1$) vs. Ridge ($L_2$) Constraint Contours, Feature Sparsity & Bias-Variance Tradeoff | [![Live Lab](https://img.shields.io/badge/Launch_Lab-C5B358?style=flat-square&logo=rocket&logoColor=black)](https://sagarkalauni.github.io/Regularization/) | [Repo](https://github.com/SagarKalauni/Regularization) |
 | **K-Nearest Neighbors (KNN)** | Non-Parametric Instance Learning, Euclidean/Manhattan Metrics & Voronoi Decision Boundaries | [![Live Lab](https://img.shields.io/badge/Launch_Lab-C5B358?style=flat-square&logo=rocket&logoColor=black)](https://sagarkalauni.github.io/knn/) | [Repo](https://github.com/SagarKalauni/knn) |
 | **Support Vector Machine (SVM)** | Maximum-Margin Hyperplanes, Support Vectors, Slack Variables & Soft-Margin Optimization ($C$) | [![Live Lab](https://img.shields.io/badge/Launch_Lab-C5B358?style=flat-square&logo=rocket&logoColor=black)](https://sagarkalauni.github.io/support-vector-machine/) | [Repo](https://github.com/SagarKalauni/support-vector-machine) |
-| **RBF Kernel SVM** | Radial Basis Function Kernel Trick, Non-Linear Manifolds & Hyperparameter Grid (\gamma, C) | [![Live Lab](https://img.shields.io/badge/Launch_Lab-C5B358?style=flat-square&logo=rocket&logoColor=black)](https://sagarkalauni.github.io/rbf-kernel-svm/) | [Repo](https://github.com/SagarKalauni/rbf-kernel-svm) |
+| **RBF Kernel SVM** | Radial Basis Function Kernel Trick, Non-Linear Manifolds & Hyperparameter Grid ($gamma, C$) | [![Live Lab](https://img.shields.io/badge/Launch_Lab-C5B358?style=flat-square&logo=rocket&logoColor=black)](https://sagarkalauni.github.io/rbf-kernel-svm/) | [Repo](https://github.com/SagarKalauni/rbf-kernel-svm) |
 | **Decision Trees (CART)** | Recursive Binary Splitting, Gini Impurity, Shannon Entropy, Information Gain & Tree Pruning | [![Live Lab](https://img.shields.io/badge/Launch_Lab-C5B358?style=flat-square&logo=rocket&logoColor=black)](https://sagarkalauni.github.io/decision-tree/) | [Repo](https://github.com/SagarKalauni/decision-tree) |
 
 ### 🌲 Ensemble Methods & Unsupervised Learning
