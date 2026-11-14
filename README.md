@@ -21,8 +21,7 @@
 - 🦁 **Full-Time Data Science Faculty** at **Lindenwood University** (*College of Science, Technology, and Health*), pioneering interactive curricula across Machine Learning, Time Series Analysis, Statistical Modeling, SQL, and Power BI Data Storytelling.
 - 🎯 **M.S. in Statistics & Operations Research** (**GPA: 4.0/4.0**) & **Post-Baccalaureate Certificate in Data Science** from **Southern Illinois University Edwardsville (SIUE)**.
 - 🏆 **Award-Winning Educator & Researcher:** *Greg & Mary Ann Budzban Scholarship for Data Analysis (2024)*, and *Matthew Samsel Graduate Assistant Fellowship in Mathematics & Statistics (2024)*, *SNSC Physical batch topper in (2017, 2018 & 2019)*.
-- 📊 **Industry Analytics Experience:** Operations & Business Data Analyst experience at **AllianceTel**, **Royal Cellular Inc.**, and **Prairie State Generating Company** (optimizing $46.9M+ warehouse inventory across 24,000+ items and building enterprise Power BI / Tableau / Python telemetry dashboards).
-
+- 📊 **Industry Analytics Experience:** Operations & Business Data Analyst experience, Analytics & Insight Intern, Content Analyst. 
 ---
 
 ## 🖥️ Interactive Machine Learning & Statistics Masterclass Suite
