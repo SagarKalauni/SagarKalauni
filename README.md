@@ -35,7 +35,7 @@
 
 - 🦁 **Full-Time Data Science Faculty** at **Lindenwood University** (*College of Science, Technology, and Health* — [Official Faculty Directory](https://www.lindenwood.edu/about/directories/faculty-staff-directory/details/skalauni/)), pioneering interactive curricula across Machine Learning, Time Series Analysis, Statistical Modeling, SQL, and Power BI Data Storytelling.
 - 🎯 **M.S. in Statistics & Operations Research** (**GPA: 4.0/4.0**) & **Post-Baccalaureate Certificate in Data Science** from **Southern Illinois University Edwardsville (SIUE)**.
-- 🏆 **Award-Winning Educator & Researcher:** *Best Incoming Faculty Nominee (Lindenwood University, 2025)*, *Greg & Mary Ann Budzban Scholarship for Data Analysis (2024)*, *Matthew Samsel Graduate Assistant Fellowship in Mathematics & Statistics (2024)*, and *SNSC Student of the Year in Mathematics (2019)*.
+- 🏆 **Award-Winning Educator & Researcher:** , *Greg & Mary Ann Budzban Scholarship for Data Analysis (2024)*, *Matthew Samsel Graduate Assistant Fellowship in Mathematics & Statistics (2024)*, and *SNSC Student of the Year in Mathematics (2017, 2018 & 2019)*, .
 - 📊 **Industry Analytics Experience:** Business Data Analyst experience at **Prairie State Generating Company** (optimizing $46.9M+ warehouse inventory across 24,000+ items, doubling work-order budget efficiency, and building enterprise Power BI / Tableau / Python telemetry dashboards).
 
 ---
